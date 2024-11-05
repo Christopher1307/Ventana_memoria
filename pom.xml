@@ -56,7 +56,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>ventanaconmemoria.Main</mainClass>
+              <mainClass>dad.Main</mainClass>
             </manifest>
           </archive>
         </configuration>
